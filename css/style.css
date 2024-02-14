@@ -30,7 +30,7 @@ header{
     height: 65px;
     width: 65px;
     background-size: 100% 100%;
-    background-image: url('/img/logo.png');
+    background-image: url('./img/logo.png');
     margin-left: 37px;
     border: solid 3px #000000;
 }
